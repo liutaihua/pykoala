@@ -39,9 +39,3 @@ pykoala可以轻松地嵌入到你需要使用爬虫的地方。下面展示一�
 ...   print url
 
 更多用法请参见文档。
-
-
-[最后]
-项目主页：http://code.google.com/p/pykoala/
-如果你有使用问题、报bug、意见建议、共同开发……请联系我：mail@zhang-chun.org
-希望你喜欢这只小考拉！
